@@ -1,1 +1,1 @@
-# infob-sit--claude
+# infobesite-claude
